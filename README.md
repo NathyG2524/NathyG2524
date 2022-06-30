@@ -2,7 +2,6 @@
 #### I am full stack  web developer
 ![I am full stack  web developer](https://user-images.githubusercontent.com/75193540/156818786-1dc5df82-3864-4628-a77d-c34f8c6ceeeb.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: PYTHON / REACT / JS / HTML / CSS/DJANGO/FLASK/MYSQL
 

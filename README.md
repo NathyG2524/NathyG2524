@@ -3,7 +3,6 @@
 ![I am full stack  web developer](https://user-images.githubusercontent.com/75193540/156818786-1dc5df82-3864-4628-a77d-c34f8c6ceeeb.gif)
 
 
-Skills: PYTHON / REACT / JS / HTML / CSS/DJANGO/FLASK/MYSQL
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a

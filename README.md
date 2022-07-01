@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Natnael Girma
 #### I am full stack  web developer
-![I am full stack  web developer](https://user-images.githubusercontent.com/75193540/156818786-1dc5df82-3864-4628-a77d-c34f8c6ceeeb.gif)
+![I am full stack  web developer](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 
 

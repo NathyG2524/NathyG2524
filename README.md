@@ -76,9 +76,9 @@
             alt="webpack" width="40" height="40" /> </a> </p>
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NathyG2524&show_icons=true&locale=en&layout=compact" alt="tcrz" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathyG2524)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NathyG2524)
 
 </div>

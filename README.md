@@ -76,11 +76,13 @@
             alt="webpack" width="40" height="40" /> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NathyG2524&show_icons=true&locale=en&layout=compact" alt="tcrz" /></p>
 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NathyG2524)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=NathyG2524&show_icons=true&theme=light&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathyG2524&langs_count=8&theme=light&layout=compact" />
+</a>
 </div>
 
 ![Profile views](https://gpvc.arturio.dev/NathyG2524)  

@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Natnael Girma
-#### Tech-savvy full stack web developer proficient in fundamental front-end languages and serverside languages and API's. Hardworking collaborator with track record of superior results.
+#### Tech-savvy full stack web developer proficient in fundamental front-end languages, serverside languages and API's. Hardworking collaborator with track record of superior results.
 ![I am full stack  web developer](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
 <p> 
